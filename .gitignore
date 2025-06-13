@@ -1,0 +1,28 @@
+# Arquivos e pastas geradas pelo Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+venv/
+env/
+
+# Arquivos de configuração e dependências
+*.env
+*.ini
+*.toml
+
+# Logs e caches
+logs/
+*.log
+.cache/
+
+# Arquivos do Jupyter Notebook
+*.ipynb_checkpoints
+
+# Dependências do Poetry e pip
+pip-wheel-metadata/
+dist/
+build/
+
+# Configuração do VS Code
+.vscode/
